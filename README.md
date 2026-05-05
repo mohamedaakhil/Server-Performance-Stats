@@ -13,4 +13,4 @@ Total Memory Usage:
 Total Disk Usage:
   Used: 15G, Free: 35G (30%)
 ...
-Use code with caution.Author: [Mohamed Aakhil]Connect with me: [https://linkedin.com/in/mohamed-aakhil] | [https://github.com/mohamedaakhil] [https://github.com/mohamedaakhil/Server-Performance-Stats]
+Use code with caution.Author: [Mohamed Aakhil]Connect with me: [https://linkedin.com/in/mohamed-aakhil] | [https://github.com/mohamedaakhil] project URL[https://github.com/mohamedaakhil/Server-Performance-Stats]
